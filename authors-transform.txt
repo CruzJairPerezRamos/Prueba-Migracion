@@ -1,0 +1,2 @@
+svn-username1 = Nombre Completo <email1@example.com>
+svn-username2 = Nombre Completo <email2@example.com>

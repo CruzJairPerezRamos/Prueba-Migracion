@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="25">
+<author>cruzjair</author>
+<date>2024-07-19T02:18:34.236206Z</date>
+<msg>Creando tag v1.0 desde la rama demo</msg>
+</logentry>
+<logentry
+   revision="24">
+<author>cruzjair</author>
+<date>2024-07-19T02:18:24.625768Z</date>
+<msg>Creando carpeta tags</msg>
+</logentry>
+<logentry
+   revision="23">
+<author>cruzjair</author>
+<date>2024-07-19T02:09:51.879783Z</date>
+<msg>se crea rama demo y se actualiza proyecto</msg>
+</logentry>
+<logentry
+   revision="22">
+<author>cruzjair</author>
+<date>2024-07-19T02:08:50.829464Z</date>
+<msg>Creando rama demo desde develop</msg>
+</logentry>
+<logentry
+   revision="21">
+<author>cruzjair</author>
+<date>2024-07-19T01:55:55.660305Z</date>
+<msg>Created new branch proyecto-base</msg>
+</logentry>
+<logentry
+   revision="20">
+<author>cruzjair</author>
+<date>2024-07-19T01:53:18.382944Z</date>
+<msg>se agrega navbar y estilos</msg>
+</logentry>
+<logentry
+   revision="19">
+<author>luis0496</author>
+<date>2024-07-18T23:42:18.860034Z</date>
+<msg>Initial commit of my project</msg>
+</logentry>
+<logentry
+   revision="18">
+<author>verc1</author>
+<date>2024-07-18T23:10:04.350197Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="17">
+<author>cruzjair</author>
+<date>2024-07-18T20:08:34.873505Z</date>
+<msg>se agrega carpeta tags y trunk</msg>
+</logentry>
+<logentry
+   revision="16">
+<author>cruzjair</author>
+<date>2024-07-18T20:04:55.440578Z</date>
+<msg>svn commit -m "se movio el contenido actual a trunk"
+</msg>
+</logentry>
+<logentry
+   revision="15">
+<author>verc1</author>
+<date>2024-07-18T20:00:56.364584Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="14">
+<author>verc1</author>
+<date>2024-07-18T19:57:44.618325Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="13">
+<author>cruzjair</author>
+<date>2024-07-18T19:57:20.518697Z</date>
+<msg>Creación de la rama 'develop'</msg>
+</logentry>
+<logentry
+   revision="12">
+<author>cruzjair</author>
+<date>2024-07-18T19:56:57.412590Z</date>
+<msg>Añadido directorio branches para estructuración del repositorio</msg>
+</logentry>
+<logentry
+   revision="11">
+<author>verc1</author>
+<date>2024-07-18T19:55:08.947393Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="10">
+<author>verc1</author>
+<date>2024-07-18T19:51:57.943673Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="9">
+<author>verc1</author>
+<date>2024-07-18T19:48:05.949813Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="8">
+<author>verc1</author>
+<date>2024-07-18T19:46:32.519025Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="7">
+<author>cruzjair</author>
+<date>2024-07-18T19:42:18.606936Z</date>
+<msg>se agrega imagen</msg>
+</logentry>
+<logentry
+   revision="6">
+<author>verc1</author>
+<date>2024-07-18T19:40:25.247827Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5">
+<author>cruzjair</author>
+<date>2024-07-18T19:23:20.878969Z</date>
+<msg>se actualiza html y css</msg>
+</logentry>
+<logentry
+   revision="4">
+<author>cruzjair</author>
+<date>2024-07-18T17:38:42.530072Z</date>
+<msg>se elimina archivo duplicado</msg>
+</logentry>
+<logentry
+   revision="3">
+<author>cruzjair</author>
+<date>2024-07-18T17:32:52.772333Z</date>
+<msg>correccion de css</msg>
+</logentry>
+<logentry
+   revision="2">
+<author>cruzjair</author>
+<date>2024-07-18T17:30:12.317949Z</date>
+<msg>ajuste de archivos</msg>
+</logentry>
+<logentry
+   revision="1">
+<author>cruzjair</author>
+<date>2024-07-18T17:20:10.647197Z</date>
+<msg>se sube proyecto base</msg>
+</logentry>
+</log>
